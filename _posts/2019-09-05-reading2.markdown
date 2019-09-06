@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Reading Assignment 2"
+date:   2019-09-05 15:37:48 -0600
+categories: posts
+---
+
+The Inmates are Running the Asylum – Chapter 9, Personas
+
+Cooper states that "I am shooting for believability, not diversity," in arguing that in designing for a computer technician, one should imagine a (presumably) white, geeky male as opposed to a woman who is physically attractive and tall. 
+This is problematic in many ways, one of which is perpetuating stereotypes that are harmful and replicate systems of oppression. 
+In creating and imagining a persona, Cooper has succesfully argued that one should be precise. 
+However, the type of details with which one is precise matters.
+One should not be making caustic assumptions regarding demographics of your "users" that are not important. 
+If we are designing for a computer technician, it does not matter whether they used to be the president of the AV club in high school or they were the prom king/queen (which should be noted are not mutually exclusive).
+Nor does it matter how physically attractive they are.
+What matters is how their position as a computer technician influences the way that they will interact with the product.
+
+In creating personas for my research project, I aimed to keep all descriptions gender-neutral, making sure I used they/them pronouns and giving each persona a gender-neutral name.
+In doing so, I was able to ensure that no biases about teachers and mathematics regarding gender would creep into our work, which is especially important given that we are seeking to create – at the heart of our research – an equitable classroom setting. 
+Furthermore, by not focusing on irrelevant aspects, we were able to drill down to the core issues with which our personas were concerned.
