@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading Assignment 2"
+title:  "Reading Assignment 2: Users and Tasks"
 date:   2019-09-05 15:37:48 -0600
 categories: posts
 ---

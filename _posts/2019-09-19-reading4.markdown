@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Reading Assignment 4: Interviews"
+date:   2019-09-19 12:13:48 -0600
+categories: posts
+---
+

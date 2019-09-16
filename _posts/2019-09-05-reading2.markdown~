@@ -53,7 +53,24 @@ Sample Task Analysis: TalkBack Application
 
 3. Transcribe video
 
+   i. Using automatic speech recognition, system transcribes audio
 
 4. Annotate transcript for "talk moves"
+
+   i. Transcript is segmented into teacher-student turns.
+
+   ii. Using a deep learning model, each turn is annotated for a talk move.
+
 5. Compile statistics
+
+   i. Count types of talk moves and save
+
+   ii. Add similar category talk move frequencies and save
+
+   iii. Update averages
+
 6. Present feedback through application
+
+   i. Email teacher that video has been processed
+
+   ii. Teacher views video and statistics through interface
