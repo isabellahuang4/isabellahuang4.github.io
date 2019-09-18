@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Week 4: Personas"
+date:   2019-09-16 13:21:48 -0600
+categories: posts
+---
+
+On Monday as a small group, we discussed personas with respect to Google's Cardboard VR headset.
+We approached the task through reverse-engineering, brainstorming different use cases that we knew of or that we could envision.
+We did generate use cases that were pretty traditional for virtual reality in general, such as video games and sharing of experiences. 
+However, we sought to focus on those that were particularly suited for Google Cardboard.
+
+One of the use cases was in the classroom, for education.
+We envisioned students using VR in the classroom in lessons that would benefit from different means of visualization, most notably in geometry classes.
+The compelling reason to use a cardboard headset would be cost.
+That is, cardboard is a cheap material and thus not too consequential in the hands of clumsy elementary school students.
+Furthermore, to ensure equal participation, all students need access to a VR headset, requiring at least a handful of sets per classroom and thus a need to keep per item costs low.
+
+Another use case we thought of was in the context of professional training.
+While on the surface, training in virtual reality is simply more engaging than sitting through a seminar, 
+there are compelling reasons that could commit an employer to utilize VR.
+Similar to a motivation to using VR in – say – chemistry classrooms, the compelling rationale for utilizing VR in professional training revolves around safety.
+Similar to the case in classrooms, scale is an important consideration in using cheaper media.
+Furthermore, the goal is to come away with some form of learning.
+However, the trainee will most likely have outgrown the clumsiness of childhood and will be interacting less in an exploratory manner.
+Given that most trainees will come in with varying degrees of competence, a VR training affords a personalization that is cost-effective to the trainer.
+
+A different use case was in the context of therapy. 
+Drawing inspiration from researchers who currently use VR games in cold settings for patients undergoing burn treatment,
+VR affords a setting for paliative care and much more.
+We also considered VR for psychological therapy, such as a medium for exposure therapy for anxiety or phobias. 
+The cardboard in these cases allows for ease and agency in the patient's submerging into an alternate reality. 
+Moreover, it allows for ease of disposability in the interest of sterilisation. 
+
+We spent a while discussing and envisioning these different use cases, so we did not get the chance to flesh out our personas. 
+We did briefly craft a user for the second case.
+They are a new hire as a mechanic in a car factory.
+While they have experience as a mechanic in a Ford factory, they are new to this Chevy brand. 
+They are highly experienced in this field and thus have high technical expertise, but lack the brand-specific knowledge.
