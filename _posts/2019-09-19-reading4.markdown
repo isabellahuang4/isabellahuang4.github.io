@@ -1,7 +1,26 @@
 ---
 layout: post
 title:  "Reading Assignment 4: Interviews"
-date:   2019-09-19 12:13:48 -0600
+date:   2019-09-18 12:13:48 -0600
 categories: posts
 ---
 
+*Kane et al: At times avuncular and cantakerous, with the reflexes of a mongoose
+
+In the introduction of the study, the authors note that the population interviewed for the study is small by nature of the method and thus poses a limitation for the conclusions drawn. 
+However, they also note that this population itself is scarce – an incidence rate of ALS reported to be about one in 50,000. 
+Moreover, the interviewees are predominantly male, which also reflects the patterns of the disease.
+This tension is apparent in any work pursued in the context of underrepresented populations
+where the question of how to best represent a community is fraught.
+
+It is only slightly ironic that the method used to understand this population is through a medium (conversation) that they struggle with.
+
+*Bennett et al: How teens with visual impairments take, edit, and share photos on social media
+
+After noticing many of my JEDI-minded friends on social media including descriptions of their image posts (especially on meme pages),
+my interest was piqued with regards to how we can best make accessible the media we have deemed as a community to be note-worthy.
+
+The simple act of going through one's personal social media feed or profile is deeply revealing,
+not just of one's habits and interests but also of how that medium is situated within one's identity and how it shapes one's identity.
+Such a tool – social media profile – allows one to tell their own curated story and serves as a powerful tool for understanding.
+Interviewing through such an act seems to be deeply revealing and could be fruitful for other forms of research.
