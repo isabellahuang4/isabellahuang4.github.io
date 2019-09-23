@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my blog for the class CSCI 5839 User-Centered Design taught by Shaun Kane.
+You will find reflection posts regarding class readings and class discussions.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a second-year PhD student at CU Boulder studying Cognitive Science and Computer Science.
+My general research interests include embodied cognition, language, and education.
+I am working with Tammy Sumner on the NSF funded TalkBack project, working to provide K12 mathematics teachers 
+automatic feedback to better help facilitate equitable classroom dialogues. 
