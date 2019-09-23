@@ -11,3 +11,4 @@ I am a second-year PhD student at CU Boulder studying Cognitive Science and Comp
 My general research interests include embodied cognition, language, and education.
 I am working with Tammy Sumner on the NSF funded TalkBack project, working to provide K12 mathematics teachers 
 automatic feedback to better help facilitate equitable classroom dialogues. 
+I am also a grad student member of the Computer Science department's Graduate Committee as well as an officer on CSGSA (Graduate Student Association). 
