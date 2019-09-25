@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading 5: Sketching"
+title:  "Reading Assignment 5: Sketching"
 date:   2019-09-24 12:52:48 -0600
 categories: posts
 ---
