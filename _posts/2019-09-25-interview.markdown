@@ -1,27 +1,20 @@
 ---
 layout: post
-title:  "Week 5: Cultural Probe"
+title:  "Week 5: Interview"
 date:   2019-09-23 10:52:48 -0600
 categories: posts
 ---
 
-We designed two cultural probes for our project. 
-Our project has two different dimensions: physical location and emotional location.
-For the matter of physical location integrated with community, we thought asking our participants
-to draw their own understanding of their physical community through a map
-would elucidate their relationships with physical space and landmarks.
-Furthermore, asking them to envision both their day and their friends' days
-as integrated within the sketch would conduct an exercise of situating
-their experiences. 
+In class, we practiced interviewing through an exercise about hobbies.
+I was being interviewed, and because I was not comfortable with my interviewer,
+I decided to make up a persona to impersonate.
+My persona's hobby was riding a Razor scooter.
+Understandably, this activity was quite foreign to my interviewer, and it took him a while to understand what my hobby entailed.
 
-In re the second matter of emotional locations,
-we designed an emotional mapping exercise, in which participants are asked to
-locate their emotions within a non-descriptive chart.
-Furthermore, they are asked to name the feeling and face and potentially
-describe their emotions in detail.
-Such an exercise has the aim of allowing the participants the space and time
-to better understand their emotional geography throughout a day.
-Moreover, it gives a better sense of what emotions are experienced and how
-people relate to them. 
+The questions that were most helpful in elucidating this hobby, from the perspective
+of the interviewee, included ones of the type:
+"Describe to me one time that you (did this activity)."
+For the interviewee, this allows them to speak specifically.
+Otherwise, the natural mode is to generalize, and through generalizations, it is
+hard to elicit a clear picture. 
 
-![cultural probe](/assets/culturalprobe.jpg)
