@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Reading Assignment 6: Prototyping"
+date:   2019-10-04 12:52:48 -0600
+categories: posts
+---
+
+It seems that Li et al's Topiary tool would be especially apt for use in our project, 
+given that we are seeking to develop an app that puts location of self and others 
+at the forefront.
+It would afford us a Wizard of Oz tool to simulate location updates during user testing.
+We could use data collected through the cultural probes (i.e. hand-drawn maps) 
+to develop the back-end of Topiary. 
+
+For the emotional mapping part of our project, prototyping could look many different ways.
+I could envision us sketching different layouts and faces for emotion updating, also informed by our cultural probes (i.e. emotion chart).
+To capture the interactivity and updating of emotions, we could add on to the Topiary system to include alerts and updates.
+Wizard of Oz designs would be best to simulate other users' interactions that the tester is informed about. 
