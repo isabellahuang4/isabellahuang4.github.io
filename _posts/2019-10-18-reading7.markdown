@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading Assignment 7: Usability"
-date:   2019-10-04 12:52:48 -0600
+date:   2019-10-18 12:52:48 -0600
 categories: posts
 ---
 
