@@ -37,3 +37,17 @@ As a side note, I would like to warn against the white-washing
 of Zen Buddhism and Japanese flower arrangement 
 and the "design principles" often appropriated from the 
 religion and larger Japanese culture.
+
+Information Visualization: Perception for Design (Chapter 5, Colin Ware)
+
+In the discussion regarding preattentive processing, it is interesting to note
+that the authors do not consider the studies showing the distinction
+between serial and parallel processing. 
+From my understanding, the differences in the search paradigms shown in 
+Figure 5.11 seem to be able to be explained by the parallel versus serial 
+search models.
+Moreover, from my cognitive science perspective, most discussions of 
+preattentive processing (which bears a starkly different name, e.g. early
+filter versus late filter) come in the context of aural tasks.
+It is interesting to see the medium shift!
+
