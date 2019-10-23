@@ -1,0 +1,34 @@
+I";<p>My everyday task will be making coffee (because a mathematician’s job
+is turning coffee into theorems).
+I do this every morning as a coffee nerd does:</p>
+
+<p>first: weighing out the beans (requires a scale)</p>
+
+<p>second: grinding the beans</p>
+
+<p>third: heating the water (requires a kettle)</p>
+
+<p>fourth: mixing grounds with water (I’ll skip the intricacies of this “step”)</p>
+
+<p>In weighing out the beans, the gulf of execution is small.
+It is pretty clear through simple trial and error that when you put something
+on the scale, the scale display will change accordingly.
+However, the gulf of evaluation is large. 
+Depending on the quality of the scale, there will be a lag between when
+things are set on scale and when the scale updates.
+This lag contributes to the ability to answer the question of whether one has
+put enough beans on the scale, i.e. whether one has executed this 
+step fully!
+Moreover, the buttons of the particular scale I use lack tactile feedback,
+thereby increasing the gulf of evaluation.
+It is immediately unclear whether I have truly pressed the button to tare the scale or 
+to turn off the scale – which turns out to be the same button.
+I have to wait for at least 2 seconds to determine whether I have “done the thing”.</p>
+
+<p>For these issues with the scale, I would refer to the heuristic of “visibility
+of system status”. 
+Indeed, much of the problems identified ask the question of
+when the system “understood” the input of the user – 
+in other words, when the status of the system updated with respect to 
+user input.</p>
+:ET

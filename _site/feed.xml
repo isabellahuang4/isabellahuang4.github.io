@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-24T12:54:43-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">UCD Blog | Isabella Huang</title><subtitle>Blog for CSCI 5839, written by Isabella Huang.</subtitle><entry><title type="html">Reading 5: Sketching</title><link href="http://localhost:4000/posts/2019/09/24/reading5.html" rel="alternate" type="text/html" title="Reading 5: Sketching" /><published>2019-09-24T12:52:48-06:00</published><updated>2019-09-24T12:52:48-06:00</updated><id>http://localhost:4000/posts/2019/09/24/reading5</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/24/reading5.html">&lt;p&gt;&lt;img src=&quot;/assets/storyboard.jpg&quot; alt=&quot;storyboard&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Reading Assignment 4: Interviews</title><link href="http://localhost:4000/posts/2019/09/18/reading4.html" rel="alternate" type="text/html" title="Reading Assignment 4: Interviews" /><published>2019-09-18T12:13:48-06:00</published><updated>2019-09-18T12:13:48-06:00</updated><id>http://localhost:4000/posts/2019/09/18/reading4</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/18/reading4.html">&lt;p&gt;*Kane et al: At times avuncular and cantakerous, with the reflexes of a mongoose&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-23T11:33:59-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">UCD Blog | Isabella Huang</title><subtitle>Blog for CSCI 5839, written by Isabella Huang.</subtitle><entry><title type="html">Reading Assignment 8: Visual Design</title><link href="http://localhost:4000/posts/2019/10/22/reading8.html" rel="alternate" type="text/html" title="Reading Assignment 8: Visual Design" /><published>2019-10-22T15:10:48-06:00</published><updated>2019-10-22T15:10:48-06:00</updated><id>http://localhost:4000/posts/2019/10/22/reading8</id><content type="html" xml:base="http://localhost:4000/posts/2019/10/22/reading8.html">&lt;p&gt;Organization and Visual Structure (Mullet and Sano)&lt;/p&gt;
+
+&lt;p&gt;In the discussion regarding balance, it is interesting that they juxtapose 
+pieces of two different time periods and languages, 
+as we know that style and design evolve over time and culture (figure 111).
+Furthermore, the “assymetrically” balanced piece can be seen as balanced,
+if one considers the rule of thirds.
+Indeed, the focus is set at an intersection of thirds, using the principle
+of lines and flow to make the piece engaging and attractive.
+One could not argue that the contemporary piece is balanced without appealing
+to white spce, which seems to be only tacitly referenced.&lt;/p&gt;
+
+&lt;p&gt;Arranging Elements (Duarte)&lt;/p&gt;</content><author><name></name></author><summary type="html">Organization and Visual Structure (Mullet and Sano)</summary></entry><entry><title type="html">Reading Assignment 7: Usability</title><link href="http://localhost:4000/posts/2019/10/18/reading7.html" rel="alternate" type="text/html" title="Reading Assignment 7: Usability" /><published>2019-10-18T12:52:48-06:00</published><updated>2019-10-18T12:52:48-06:00</updated><id>http://localhost:4000/posts/2019/10/18/reading7</id><content type="html" xml:base="http://localhost:4000/posts/2019/10/18/reading7.html">&lt;p&gt;My everyday task will be making coffee (because a mathematician’s job
+is turning coffee into theorems).
+I do this every morning as a coffee nerd does:&lt;/p&gt;
+
+&lt;p&gt;first: weighing out the beans (requires a scale)&lt;/p&gt;
+
+&lt;p&gt;second: grinding the beans&lt;/p&gt;
+
+&lt;p&gt;third: heating the water (requires a kettle)&lt;/p&gt;
+
+&lt;p&gt;fourth: mixing grounds with water (I’ll skip the intricacies of this “step”)&lt;/p&gt;
+
+&lt;p&gt;In weighing out the beans, the gulf of execution is small.
+It is pretty clear through simple trial and error that when you put something
+on the scale, the scale display will change accordingly.
+However, the gulf of evaluation is large. 
+Depending on the quality of the scale, there will be a lag between when
+things are set on scale and when the scale updates.
+This lag contributes to the ability to answer the question of whether one has
+put enough beans on the scale, i.e. whether one has executed this 
+step fully!
+Moreover, the buttons of the particular scale I use lack tactile feedback,
+thereby increasing the gulf of evaluation.
+It is immediately unclear whether I have truly pressed the button to tare the scale or 
+to turn off the scale – which turns out to be the same button.
+I have to wait for at least 2 seconds to determine whether I have “done the thing”.&lt;/p&gt;
+
+&lt;p&gt;For these issues with the scale, I would refer to the heuristic of “visibility
+of system status”. 
+Indeed, much of the problems identified ask the question of
+when the system “understood” the input of the user – 
+in other words, when the status of the system updated with respect to 
+user input.&lt;/p&gt;</content><author><name></name></author><summary type="html">My everyday task will be making coffee (because a mathematician’s job is turning coffee into theorems). I do this every morning as a coffee nerd does:</summary></entry><entry><title type="html">Reading Assignment 6: Prototyping</title><link href="http://localhost:4000/posts/2019/10/04/reading6.html" rel="alternate" type="text/html" title="Reading Assignment 6: Prototyping" /><published>2019-10-04T12:52:48-06:00</published><updated>2019-10-04T12:52:48-06:00</updated><id>http://localhost:4000/posts/2019/10/04/reading6</id><content type="html" xml:base="http://localhost:4000/posts/2019/10/04/reading6.html">&lt;p&gt;It seems that Li et al’s Topiary tool would be especially apt for use in our project, 
+given that we are seeking to develop an app that puts location of self and others 
+at the forefront.
+It would afford us a Wizard of Oz tool to simulate location updates during user testing.
+We could use data collected through the cultural probes (i.e. hand-drawn maps) 
+to develop the back-end of Topiary.&lt;/p&gt;
+
+&lt;p&gt;For the emotional mapping part of our project, prototyping could look many different ways.
+I could envision us sketching different layouts and faces for emotion updating, also informed by our cultural probes (i.e. emotion chart).
+To capture the interactivity and updating of emotions, we could add on to the Topiary system to include alerts and updates.
+Wizard of Oz designs would be best to simulate other users’ interactions that the tester is informed about.&lt;/p&gt;</content><author><name></name></author><summary type="html">It seems that Li et al’s Topiary tool would be especially apt for use in our project, given that we are seeking to develop an app that puts location of self and others at the forefront. It would afford us a Wizard of Oz tool to simulate location updates during user testing. We could use data collected through the cultural probes (i.e. hand-drawn maps) to develop the back-end of Topiary.</summary></entry><entry><title type="html">Week 6: Sketching</title><link href="http://localhost:4000/posts/2019/09/30/sketching.html" rel="alternate" type="text/html" title="Week 6: Sketching" /><published>2019-09-30T18:52:48-06:00</published><updated>2019-09-30T18:52:48-06:00</updated><id>http://localhost:4000/posts/2019/09/30/sketching</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/30/sketching.html">&lt;p&gt;Location sharing for a meetup app:&lt;/p&gt;
+
+&lt;p&gt;I drew the interface I envisioned for a user selecting where on the map their home is. One would be able to drag and zoom through gestures and click on the home icon to select.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/locationapp.jpg&quot; alt=&quot;locationapp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Coding on the Apple TV:&lt;/p&gt;
+
+&lt;p&gt;I envisioned two different ways one could code on an Apple TV. 
+The first involved using Scratch and control through movement of the blocks.&lt;/p&gt;
+
+&lt;p&gt;The second involved using predictive text and a QWERTY keyboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/codeappletv.jpg&quot; alt=&quot;coding&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Location sharing for a meetup app:</summary></entry><entry><title type="html">Reading Assignment 5: Sketching</title><link href="http://localhost:4000/posts/2019/09/25/reading5.html" rel="alternate" type="text/html" title="Reading Assignment 5: Sketching" /><published>2019-09-25T15:52:48-06:00</published><updated>2019-09-25T15:52:48-06:00</updated><id>http://localhost:4000/posts/2019/09/25/reading5</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/25/reading5.html">&lt;p&gt;&lt;img src=&quot;/assets/storyboard.jpg&quot; alt=&quot;storyboard&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Week 5: Interview</title><link href="http://localhost:4000/posts/2019/09/23/interview.html" rel="alternate" type="text/html" title="Week 5: Interview" /><published>2019-09-23T10:52:48-06:00</published><updated>2019-09-23T10:52:48-06:00</updated><id>http://localhost:4000/posts/2019/09/23/interview</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/23/interview.html">&lt;p&gt;In class, we practiced interviewing through an exercise about hobbies.
+I was being interviewed, and because I was not comfortable with my interviewer,
+I decided to make up a persona to impersonate.
+My persona’s hobby was riding a Razor scooter.
+Understandably, this activity was quite foreign to my interviewer, and it took him a while to understand what my hobby entailed.&lt;/p&gt;
+
+&lt;p&gt;The questions that were most helpful in elucidating this hobby, from the perspective
+of the interviewee, included ones of the type:
+“Describe to me one time that you (did this activity).”
+For the interviewee, this allows them to speak specifically.
+Otherwise, the natural mode is to generalize, and through generalizations, it is
+hard to elicit a clear picture.&lt;/p&gt;</content><author><name></name></author><summary type="html">In class, we practiced interviewing through an exercise about hobbies. I was being interviewed, and because I was not comfortable with my interviewer, I decided to make up a persona to impersonate. My persona’s hobby was riding a Razor scooter. Understandably, this activity was quite foreign to my interviewer, and it took him a while to understand what my hobby entailed.</summary></entry><entry><title type="html">Week 5: Cultural Probe</title><link href="http://localhost:4000/posts/2019/09/23/cultural-probe.html" rel="alternate" type="text/html" title="Week 5: Cultural Probe" /><published>2019-09-23T10:52:48-06:00</published><updated>2019-09-23T10:52:48-06:00</updated><id>http://localhost:4000/posts/2019/09/23/cultural-probe</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/23/cultural-probe.html">&lt;p&gt;We designed two cultural probes for our project. 
+Our project has two different dimensions: physical location and emotional location.
+For the matter of physical location integrated with community, we thought asking our participants
+to draw their own understanding of their physical community through a map
+would elucidate their relationships with physical space and landmarks.
+Furthermore, asking them to envision both their day and their friends’ days
+as integrated within the sketch would conduct an exercise of situating
+their experiences.&lt;/p&gt;
+
+&lt;p&gt;In re the second matter of emotional locations,
+we designed an emotional mapping exercise, in which participants are asked to
+locate their emotions within a non-descriptive chart.
+Furthermore, they are asked to name the feeling and face and potentially
+describe their emotions in detail.
+Such an exercise has the aim of allowing the participants the space and time
+to better understand their emotional geography throughout a day.
+Moreover, it gives a better sense of what emotions are experienced and how
+people relate to them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/culturalprobe.jpg&quot; alt=&quot;cultural probe&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">We designed two cultural probes for our project. Our project has two different dimensions: physical location and emotional location. For the matter of physical location integrated with community, we thought asking our participants to draw their own understanding of their physical community through a map would elucidate their relationships with physical space and landmarks. Furthermore, asking them to envision both their day and their friends’ days as integrated within the sketch would conduct an exercise of situating their experiences.</summary></entry><entry><title type="html">Reading Assignment 4: Interviews</title><link href="http://localhost:4000/posts/2019/09/18/reading4.html" rel="alternate" type="text/html" title="Reading Assignment 4: Interviews" /><published>2019-09-18T12:13:48-06:00</published><updated>2019-09-18T12:13:48-06:00</updated><id>http://localhost:4000/posts/2019/09/18/reading4</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/18/reading4.html">&lt;p&gt;*Kane et al: At times avuncular and cantakerous, with the reflexes of a mongoose&lt;/p&gt;
 
 &lt;p&gt;In the introduction of the study, the authors note that the population interviewed for the study is small by nature of the method and thus poses a limitation for the conclusions drawn. 
 However, they also note that this population itself is scarce – an incidence rate of ALS reported to be about one in 50,000. 
@@ -60,111 +157,4 @@ like an exploitation of a misunderstood people through extraction and asking for
 However, the packages of maps, postcards, photo albums, and media diaries were endearing. 
 Indeed, the “probe” allowed the users to provide candid data on their own time, in a way that was exciting for the participants.
 This “non-conventional” method for collecting data is interesting given its affordance of respect for the participant. 
-It also allows for a different mode of engagement that is unique to these objects.&lt;/p&gt;</content><author><name></name></author><summary type="html">I first picked the paper by Oulasvirta et al. “Interaction in 4-second Bursts: the Fragmented Nature of Attentional Resource in Mobile HCI.” It sparked my interest, because I had previously taken a class called “Distraction,” and have since been intrigued with regards to how our modes of attention and distraction are shaped by artefacts around us. In the paper, Oulasvirta et al. propose a new theoretical framework (i.e. a theoretical contribution to the field) and empirically test the predictive validity of the framework through a field study.</summary></entry><entry><title type="html">Reading Assignment 2: Users and Tasks</title><link href="http://localhost:4000/posts/2019/09/05/reading2.html" rel="alternate" type="text/html" title="Reading Assignment 2: Users and Tasks" /><published>2019-09-05T15:37:48-06:00</published><updated>2019-09-05T15:37:48-06:00</updated><id>http://localhost:4000/posts/2019/09/05/reading2</id><content type="html" xml:base="http://localhost:4000/posts/2019/09/05/reading2.html">&lt;p&gt;The Inmates are Running the Asylum – Chapter 9, Personas&lt;/p&gt;
-
-&lt;p&gt;Cooper states that “I am shooting for believability, not diversity,” in arguing that in designing for a computer technician, one should imagine a (presumably) white, geeky male as opposed to a woman who is physically attractive and tall. 
-This is problematic in many ways, one of which is perpetuating stereotypes that are harmful and replicate systems of oppression. 
-In creating and imagining a persona, Cooper has succesfully argued that one should be precise. 
-However, the type of details with which one is precise matters.
-One should not be making caustic assumptions regarding demographics of your “users” that are not important. 
-If we are designing for a computer technician, it does not matter whether they used to be the president of the AV club in high school or they were the prom king/queen (which should be noted are not mutually exclusive).
-Nor does it matter how physically attractive they are.
-What matters is how their position as a computer technician influences the way that they will interact with the product.&lt;/p&gt;
-
-&lt;p&gt;In creating personas for my research project, I aimed to keep all descriptions gender-neutral, making sure I used they/them pronouns and giving each persona a gender-neutral name.
-In doing so, I was able to ensure that no biases about teachers and mathematics regarding gender would creep into our work, which is especially important given that we are seeking to create – at the heart of our research – an equitable classroom setting. 
-Furthermore, by not focusing on irrelevant aspects, we were able to drill down to the core issues with which our personas were concerned.&lt;/p&gt;
-
-&lt;p&gt;Task Analysis&lt;/p&gt;
-
-&lt;p&gt;Upon first glance, it seems that what one does in task decomposition is more or less what is meant by those in the realm of education when they refer to “computational thinking.”
-That is, task analysis is the core of what it means to think like a computer scientist – breaking down complex tasks into subroutines and useful abstractions.
-In fact, in our CS education seminar, we used the precise task of cleaning a room to illustrate this understanding of computational thinking.
-However, a question we should ask is when this type of thinking is beneficial when introduced. 
-As seen in the “make tea” example, such a decomposition may be more complicated than the task itself warrants.
-Thus, in teaching computational thinking and in using task analysis, we should also consider the merits of deploying such an analytical framework and the scope of the analysis.&lt;/p&gt;
-
-&lt;p&gt;As a simple example and connection, the entity-relationship approach to modeling is used in some natural language processing systems, but not all. 
-Indeed, when the structure of the domain is ripe and strict – such as a chatbot travel agent – it simplifies the task to highlight these relationships and categorize entities as such. 
-However, not all NLP systems use such a classfication, because not all domains are structured in such a way that affords a easy and usable decomposition.&lt;/p&gt;
-
-&lt;p&gt;Sample Task Analysis: TalkBack Application&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Teacher records class&lt;/p&gt;
-
-    &lt;p&gt;i. Teacher sets up Swivl stand, Swivl markers, and iPad&lt;/p&gt;
-
-    &lt;p&gt;ii. Teacher hits record on iPad&lt;/p&gt;
-
-    &lt;p&gt;iii. Teacher names and saves recording&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Upload video&lt;/p&gt;
-
-    &lt;p&gt;i. Swivl application automatically uploads video to cloud&lt;/p&gt;
-
-    &lt;p&gt;ii. Video is scraped from Swivl cloud to TalkBack system&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Transcribe video&lt;/p&gt;
-
-    &lt;p&gt;i. Using automatic speech recognition, system transcribes audio&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Annotate transcript for “talk moves”&lt;/p&gt;
-
-    &lt;p&gt;i. Transcript is segmented into teacher-student turns.&lt;/p&gt;
-
-    &lt;p&gt;ii. Using a deep learning model, each turn is annotated for a talk move.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Compile statistics&lt;/p&gt;
-
-    &lt;p&gt;i. Count types of talk moves and save&lt;/p&gt;
-
-    &lt;p&gt;ii. Add similar category talk move frequencies and save&lt;/p&gt;
-
-    &lt;p&gt;iii. Update averages&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Present feedback through application&lt;/p&gt;
-
-    &lt;p&gt;i. Email teacher that video has been processed&lt;/p&gt;
-
-    &lt;p&gt;ii. Teacher views video and statistics through interface&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">The Inmates are Running the Asylum – Chapter 9, Personas</summary></entry><entry><title type="html">Reading Assignment 1: The Deep Dive</title><link href="http://localhost:4000/posts/2019/08/31/reading1.html" rel="alternate" type="text/html" title="Reading Assignment 1: The Deep Dive" /><published>2019-08-31T12:26:48-06:00</published><updated>2019-08-31T12:26:48-06:00</updated><id>http://localhost:4000/posts/2019/08/31/reading1</id><content type="html" xml:base="http://localhost:4000/posts/2019/08/31/reading1.html">&lt;ol&gt;
-  &lt;li&gt;This video is about 20 years old! Which ideas from this work show up in today’s shopping carts? Which ideas did not make it, and why didn’t they?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;One idea that wasn’t explicitly mentioned but showed up in their final design as well as today’s shopping carts is a rounder frame. Whether this is realized in plastic bumpers on the edges or the literal rounding of the metal frame, it is a design element geared towards safety that has persisted.
-Another design element that I have seen less regularly but nonetheless still exists in the current world is the idea of a modular, removable shopping basket. It is not by any means standard, but it does acknowledge that there are times when pushing a cart is more convenient and when a smaller basket is required.&lt;/p&gt;
-
-&lt;p&gt;One element of IDEO’s design that has not been fully realized is the roller-coaster-type seatbelt that turns into a push handle for the child seat in the cart. Aside from the nylon waist strap, there aren’t more innovative solutions to the problem of securing your child inside the shopping cart. 
-One reason that the seatbelt design could have failed to be taken up regards the ease of use – the video did not show the users actually putting a child (or doll) into the seat and closing the handle down. 
-It might not be that convenient to pull an over-the-shoulder bar over a squirming 1-year-old.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, it might be the case that users changed their behaviour rather than appealed to design for better functionality. That is, shoppers may have just stopped taking their infants to the grocery store, removing that need.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Who did the design team talk to? For each group of stakeholders that the designers talked to, explain why is was important to talk to them.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The two main groups of stakeholders the design team talked to were the owners of the grocery stores and the shoppers. The shoppers are the primary users of the product, and thus their perspective should be prioritized in designing the product. The owners of the stores are the buyers of the product, and thus their demands for the product, such as those centering on theft, are required to be represented within a successful design.&lt;/p&gt;</content><author><name></name></author><summary type="html">This video is about 20 years old! Which ideas from this work show up in today’s shopping carts? Which ideas did not make it, and why didn’t they?</summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/posts/2019/08/31/a1.html" rel="alternate" type="text/html" title="Week 1" /><published>2019-08-31T11:21:48-06:00</published><updated>2019-08-31T11:21:48-06:00</updated><id>http://localhost:4000/posts/2019/08/31/a1</id><content type="html" xml:base="http://localhost:4000/posts/2019/08/31/a1.html">&lt;p&gt;On Monday, we talked about some products that were frustrating to use and some products that were pleasing to use. 
-One item that stood out as very frustrating was the bike rack, 
-which does not fully account for variations in shape, size, and design of a bicycle, leading to reduced ease of access to lock the bike, reduced manueverability and stability, and potentially damage to the bikes locked at the rack. 
-One set of items that stood out as pleasing to use was the suite of Apple products, given that the look and feel of the products are sleek and minimalist in design, as well as their integration with each other (e.g. being able to text from your laptop without having to pick up another device).&lt;/p&gt;
-
-&lt;p&gt;On Wednesday, we focused on designing some solutions for problems existing in the Apple TV remote. One of the major problems discovered was that there was no easy way to determine the orientation of the remate.
-Thus, our group – consisting of myself, Vinitha, and Jessie – sought out different methods to build assymetries within the remote without sacrificing usability and aesthetic quality.&lt;/p&gt;
-
-&lt;p&gt;One simple idea was the move the buttons down to create a clear divide between the touch area and the buttons. This would reduce the vertical symmetry, but may lead to the buttons being less accessible when the remote is held and navigated by one hand.
-Another idea was to simple weight the bottom of the remote. Without changing anything visible to the remote, an added weight would allow the user to feel the correct orientation. 
-Other tactile cues were brainstormed, including rubber grips at the back of the remote or a small line dividing the touch pad and button areas on the remote.&lt;/p&gt;
-
-&lt;p&gt;We concluded that any of the proposed ideas would probably suitably address the original problem of determining the orientation of the Apple TV remote, but combining all of them would probably be “overkill” or over-engineering the solution.&lt;/p&gt;</content><author><name></name></author><summary type="html">On Monday, we talked about some products that were frustrating to use and some products that were pleasing to use. One item that stood out as very frustrating was the bike rack, which does not fully account for variations in shape, size, and design of a bicycle, leading to reduced ease of access to lock the bike, reduced manueverability and stability, and potentially damage to the bikes locked at the rack. One set of items that stood out as pleasing to use was the suite of Apple products, given that the look and feel of the products are sleek and minimalist in design, as well as their integration with each other (e.g. being able to text from your laptop without having to pick up another device).</summary></entry><entry><title type="html">Intro</title><link href="http://localhost:4000/posts/2019/08/27/intro.html" rel="alternate" type="text/html" title="Intro" /><published>2019-08-27T21:26:48-06:00</published><updated>2019-08-27T21:26:48-06:00</updated><id>http://localhost:4000/posts/2019/08/27/intro</id><content type="html" xml:base="http://localhost:4000/posts/2019/08/27/intro.html">&lt;p&gt;Hello! My name is Isabella Huang, and I use she/her/hers pronouns. I am a PhD student in Cognitive Science and Computer Science, working with Tammy Sumner.&lt;/p&gt;
-
-&lt;p&gt;Here’s a photo of me scarfing down a semi-frozen burrito after day broke on an alpine start this summer. &lt;img src=&quot;/assets/burrito.jpg&quot; alt=&quot;burrito&quot; /&gt;
-And another photo of me further along the backpacking loop at Buckskin Pass, ecstatic after meeting Bucky the mountain goat. &lt;img src=&quot;/assets/headshot.jpg&quot; alt=&quot;pass&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello! My name is Isabella Huang, and I use she/her/hers pronouns. I am a PhD student in Cognitive Science and Computer Science, working with Tammy Sumner.</summary></entry></feed>
+It also allows for a different mode of engagement that is unique to these objects.&lt;/p&gt;</content><author><name></name></author><summary type="html">I first picked the paper by Oulasvirta et al. “Interaction in 4-second Bursts: the Fragmented Nature of Attentional Resource in Mobile HCI.” It sparked my interest, because I had previously taken a class called “Distraction,” and have since been intrigued with regards to how our modes of attention and distraction are shaped by artefacts around us. In the paper, Oulasvirta et al. propose a new theoretical framework (i.e. a theoretical contribution to the field) and empirically test the predictive validity of the framework through a field study.</summary></entry></feed>

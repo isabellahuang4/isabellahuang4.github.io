@@ -1,40 +1,21 @@
 ---
 layout: post
-title:  "Reading Assignment 7: Usability"
-date:   2019-10-18 12:52:48 -0600
+title:  "Reading Assignment 8: Visual Design"
+date:   2019-10-22 15:10:48 -0600
 categories: posts
 ---
 
-My everyday task will be making coffee (because a mathematician's job
-is turning coffee into theorems).
-I do this every morning as a coffee nerd does: 
+Organization and Visual Structure (Mullet and Sano)
 
-first: weighing out the beans (requires a scale)
+In the discussion regarding balance, it is interesting that they juxtapose 
+pieces of two different time periods and languages, 
+as we know that style and design evolve over time and culture (figure 111).
+Furthermore, the "assymetrically" balanced piece can be seen as balanced,
+if one considers the rule of thirds.
+Indeed, the focus is set at an intersection of thirds, using the principle
+of lines and flow to make the piece engaging and attractive.
+One could not argue that the contemporary piece is balanced without appealing
+to white spce, which seems to be only tacitly referenced. 
 
-second: grinding the beans
 
-third: heating the water (requires a kettle)
-
-fourth: mixing grounds with water (I'll skip the intricacies of this "step")
-
-In weighing out the beans, the gulf of execution is small.
-It is pretty clear through simple trial and error that when you put something
-on the scale, the scale display will change accordingly.
-However, the gulf of evaluation is large. 
-Depending on the quality of the scale, there will be a lag between when
-things are set on scale and when the scale updates.
-This lag contributes to the ability to answer the question of whether one has
-put enough beans on the scale, i.e. whether one has executed this 
-step fully!
-Moreover, the buttons of the particular scale I use lack tactile feedback,
-thereby increasing the gulf of evaluation.
-It is immediately unclear whether I have truly pressed the button to tare the scale or 
-to turn off the scale – which turns out to be the same button.
-I have to wait for at least 2 seconds to determine whether I have "done the thing". 
-
-For these issues with the scale, I would refer to the heuristic of "visibility
-of system status". 
-Indeed, much of the problems identified ask the question of
-when the system "understood" the input of the user – 
-in other words, when the status of the system updated with respect to 
-user input.
+Arranging Elements (Duarte)
