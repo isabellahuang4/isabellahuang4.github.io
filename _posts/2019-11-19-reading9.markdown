@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Reading Assignment 9: Audio and Dark Patterns"
+date:   2019-11-18 10:53:48 -0600
+categories: posts
+---
+
+Audio UIs:
+
+One example of tactile and aural feedback is the iPhone. 
+When they got rid of the home button and replaced it with just a circle,
+ they introduced vibration feedback that made it ~almost~ feel like the circle gave way as the button originally did. It was slightly uncanny if you remembered what the actual button felt like, but it was convincing feedback if you were simply looking for affirmation that you interacted with the hardware correctly. Similarly, while no one actually keeps their ringer on, the keyboard sounds on the iPhone are soothing and similarly reaffirming. On the dial pad, it makes the same noises our landline phones made, which is both nostalgic but confirming. On the alphabetic keyboard, it gives feedback for each keystroke and backspace in a way that mimics aurally the feeling of physical keys or erasure of each character or block. 
+
+As an aside that is only slightly related, there was a viral tweet 
+ by Nyle DiMarco who posted an ASL interpreter performing at Atlanta pride. Someone responded with "posting this without sound is a crime," to which DiMarco responded "how the f*ck am I supposed to know." Just a small reminder to keep UIs accessible and universally designed. 
+https://twitter.com/NyleDiMarco/status/1184105019961835520
+
+One of the most potent examples of dark patterns on the web is on streaming websites or similar download sites. Those sites are littered with camouflaged ads that will most likely download a virus or something similar onto your computer. These ads sometimes are overlaid upon the content one is actually seeking, are sized much larger than the "true" content, or look exactly like the "true" content, making it nearly impossible to not click on them. It is the mark of someone who frequents streaming sites when they navigate to the near-invisible "x" that closes the popups and finds the non-ad buttons, as those patterns are intentionally hard to discover.
+
+Another example of dark patterns I have noticed has become almost ubiquitous. You reach almost any content-creator's site and there is immediately a popup that asks to sign up for a newsletter (for which you may receive a 10% discount on merchandise in the site store). Moreover, on mobile screens, the popups are not responsively designed, resulting in difficulty in avoiding the interaction and transaction (personal information for small monetary incentives to buy). 
